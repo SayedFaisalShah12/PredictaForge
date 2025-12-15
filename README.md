@@ -58,7 +58,8 @@ PredictaForge is an AI-powered web application designed to assist in the early d
 
 ## Links
 
-Huggingface Link:https://huggingface.co/spaces/Sayed-Shah/PredictaFridge
+Huggingface Link: https://huggingface.co/spaces/Sayed-Shah/PredictaFridge
+Streamlit Link: https://sayedfaisalshah12-predictaforge-appmain-bmeihg.streamlit.app/
 
 
 ## 📂 Project Structure
