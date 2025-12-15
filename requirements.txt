@@ -1,1 +1,11 @@
-requirements
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+python-dotenv
+PyPDF2
+langchain
+faiss-cpu
+huggingface-hub
+sentence-transformers
