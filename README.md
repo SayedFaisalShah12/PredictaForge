@@ -65,7 +65,7 @@ Huggingface Link:https://huggingface.co/spaces/Sayed-Shah/PredictaFridge
 
 ```text
 .
-├── app.py
+├── app/main.py
 ├── requirements.txt
 ├── README.md
 ├── model/
